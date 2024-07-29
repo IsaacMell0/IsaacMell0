@@ -1,13 +1,13 @@
 ##  Bom dia a todos, boas vindas ao meu perfil!👋
 Meu nome é Isaac Gabriel
  
-  Estou estudando na Alura
+  ° Estou estudando na Alura
   
-  Estou me desenvolvendo na linguagem javascript 
+  ° Estou me desenvolvendo na linguagem javascript 
   
-  Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+  ° Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
   
-  Você pode entrar em contato comigo 📫
+ ## Você pode entrar em contato comigo 📫
 
   00001110366061sp@al.educacao.sp.gov.br
 
